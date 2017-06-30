@@ -1,6 +1,6 @@
 Requisitos:
 
-- JDK 7 o superior.
+- JDK 8 o superior.
 - Maven 3 o superior.
 
 Instrucciones:
